@@ -1,0 +1,8 @@
+#video_container {
+    border: 2px solid pink;
+    margin: 1rem;
+}
+
+#button_container {
+    border: 2px solid cyan;
+}
